@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @GustosRepo
-- 👀 I’m interested in realy abstract type of websites but of course I can dabble in the normal side of business as well. 
-- 🌱 I’m currently learning and also freelancing to develop my art.... yes coding is art <3 ...
-- 💞️ I’m looking to collaborate on anything just dm me...
-- 📫 How to reach me ...
-
-<!---
-GustosRepo/GustosRepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Veteran Turned Coder
+Welcome to my personal portfolio! As a veteran who has fallen in love with coding, this repository showcases my journey of transitioning from the military to the world of technology. After dedicating years of service to my country, I discovered my passion for coding and embarked on a new adventure in the tech industry. This portfolio serves as a testament to my determination, adaptability, and eagerness to learn. From my first lines of code to the projects I have developed, I invite you to explore my work and witness the unique perspective and skills I bring as a veteran in the coding world. I'm excited to connect with fellow professionals, collaborators, and potential employers who share my passion for technology and the endless possibilities it offers. Let's embark on this exciting journey together!
