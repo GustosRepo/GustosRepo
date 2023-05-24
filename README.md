@@ -4,4 +4,4 @@ Welcome to my personal portfolio! As a veteran who has fallen in love with codin
 
         /\_/\  
        ( o.o )
-         > ^ <
+        > ^ <
